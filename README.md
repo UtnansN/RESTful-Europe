@@ -5,6 +5,8 @@ Build with `gradlew build`
 
 Run with `gradlew bootRun`
 
+Run tests with `gradlew clean test --info`
+
 # Endpoints
 
 There are three available endpoints:
